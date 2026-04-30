@@ -1,0 +1,12 @@
+{
+  "feature_order": [
+    "palm_size",
+    "curl_index",
+    "curl_middle",
+    "curl_ring",
+    "curl_pinky",
+    "thumb_straight",
+    "thumb_lateral",
+    "yaw"
+  ]
+}

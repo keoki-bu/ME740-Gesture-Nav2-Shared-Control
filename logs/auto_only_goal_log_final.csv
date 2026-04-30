@@ -1,0 +1,6 @@
+wall_time,ros_time_sec,event,goal_name,x,y,yaw,mode,stable_gesture,estop
+2026-04-27T05:40:57,1777282857.388,send_goal,G0_Start,-0.013969,-0.016796,0.000,NAV,OpenPalm,0
+2026-04-27T05:41:11,1777282871.185,send_goal,G0_Start,-0.013969,-0.016796,0.000,NAV,OpenPalm,0
+2026-04-27T05:41:15,1777282875.583,send_goal,G2_Lower,3.178164,-1.294860,0.000,NAV,OpenPalm,0
+2026-04-27T05:41:38,1777282898.792,send_goal,G1_Upper,1.154941,2.291191,0.000,NAV,OpenPalm,0
+2026-04-27T05:42:25,1777282945.384,send_goal,G0_Start,-0.013969,-0.016796,0.000,NAV,OpenPalm,0
