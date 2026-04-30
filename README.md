@@ -61,6 +61,12 @@ ME740_Gesture_Nav2_Shared_Control/
   - topic_graph.png
   - shared_events.png
   - auto_shared_demo.png
+  - Fist.png
+  - OpenPalm.png
+  - PointLeft.png
+  - PointRight.png
+  - Thumbup.png
+  - TwoFingers.png
 
 ## Build Instructions
 
