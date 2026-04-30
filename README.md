@@ -51,7 +51,7 @@ ME740_Gesture_Nav2_Shared_Control/
   - gesture_nav2_shared/
 - maps/
   - tb3_map.yaml
-  - tb3_map.pgm or tb3_map.png
+  - tb3_map.pgm
 - logs/
   - auto_only_goal_log_final.csv
   - shared_fusion_log_final.csv
